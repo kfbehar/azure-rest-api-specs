@@ -1,6 +1,6 @@
 {
   "parameters": {
-    "api-version": "2020-01-01",
+    "api-version": "2020-03-01-preview",
     "subscriptionId": "0980887d-03d6-408c-9566-532f3456804e"
   },
   "responses": {
